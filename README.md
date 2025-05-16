@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://feynx.io)
 <h1 align="center">Hi 👋, I'm Htet Wai Aung @ Phoenix</h1>
 <h3 align="center">Aspiring DevOps Engineer | Building skills in CCNA, Linux, Git, Docker & CI/CD</h3>
-<img align="right" alt="Coding" width="400" src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F1d11s820dgm91.gif">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=devops%20coding%20gif&imgurl=https%3A%2F%2Fi.redd.it%2F1d11s820dgm91.gif&imgrefurl=https%3A%2F%2Fwww.reddit.com%2Fr%2FPixelArt%2Fcomments%2Fx87lsd%2Fsoftware_developer_by_day_pixel_artist_by_night%2F&docid=qy2unZAFlg4CuM&tbnid=1dlBQ7OqI6wFnM&vet=12ahUKEwi25sqGtqeNAxW8umMGHdJDAzQQM3oECGkQAA..i&w=675&h=616&hcb=2&itg=1&ved=2ahUKEwi25sqGtqeNAxW8umMGHdJDAzQQM3oECGkQAA">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feynx&label=Profile%20views&color=0e75b6&style=flat" alt="feynx" /> </p>
 
